@@ -7,23 +7,23 @@ I'm **Simangaliso Mazweni Ntuli**, a 3rd year student at Cape Peninsula Universi
 
 ## 📁 Portfolio Sections
 
-### 1. [Business Communication](business-communication.md)
+### 1. [Business Communication](Business Communication)
 - Professional email communication
 - Acceptance letter evidence and reflection
 
-### 2. [Interview Skills](interview-skills.md)
+### 2. [Interview Skills]
 - Interview preparation strategies
 - Practice techniques and reflection
 
-### 3. [Mock Interview](mock-interview.md)
+### 3. [Mock Interview]
 - Recorded mock interview experience
 - Performance analysis and learning outcomes
 
-### 4. [Professional Networking](professional-networking.md)
+### 4. [Professional Networking](Professional Networking)
 - LinkedIn connections and networking
 - Industry relationship building
 
-### 5. [Workplace Etiquette](workplace-etiquette.md)
+### 5. [Workplace Etiquette]
 - Professional conduct development
 - Mentor feedback implementation
 
